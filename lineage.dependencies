@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "MTK-Dev/android_device_mediatek_mt6795-common",
+    "target_path": "device/mediatek/mt6795-common",
+    "revision": "cm-14.1"
+  }
+]
